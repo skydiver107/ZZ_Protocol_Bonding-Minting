@@ -1,0 +1,1655 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x1A3281D23E3a63767a858EaA8A039601D961949e",
+    "txHash": "0x8dbbdfb2ed07e9fad9a6ea627beeadc77000b6408d60ebf0992505f0ce6e0754"
+  },
+  "proxies": [
+    {
+      "address": "0x8E5a13670b701EBF820E5fC9B4807cAdA9edD5b2",
+      "txHash": "0x3569c6ec28b4846da8272363a607717dd0530aa43cd2f33ad39dcaa1770e8463",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4F7c737a72DA6bDEE841130C415fB366902fCdcc",
+      "txHash": "0x2b06223edeca204b4dcd4652fd9fc0951ee89f6b298fc48c876c4ea64b8682b9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xe68b79e1CD1bc90DA485EBcF00C6c590b463555b",
+      "txHash": "0xe9de13f4ee38e7d398643fd54126c3dda121831272dc1b650fa58974a390d9b3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1382A7B017cd4AC24CA492407a912Dbb5e3904dB",
+      "txHash": "0x6bcf32c1bb9ba08d5dbdeceeb4ec5cc52bc35128f6d0a9377a0df66a366d119a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xDd358dF6472137e92d18c6D9e17A089681B34166",
+      "txHash": "0x9649cbaff31cf4a10a833d76b27a3dbc1444903b86e3e756f54f796c43707d38",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5dcDf6B5d49Cb6C6DD885EA071f5b32065568282",
+      "txHash": "0x78a02a9f6b28f8c7fe9bd50451bb1e4950b5135bd07909a63fdd07a44dcf3f82",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x518Ac92b4f24B59757165CC66A783beF43f6F216",
+      "txHash": "0x5044576619ed25c60f7299b7cf4c2147fca7de3dcfd09335b92633e2069548a3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xe5fbA45a5be80D23EC7C893282dFbe24cD1b3a75",
+      "txHash": "0xd9a026c1bce6a8c068359d7dda16ce2f09f4d94ca97637582ac65aa6b93054af",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf7Ef2f0aD79F931e8eB088636A6FaC20FD60d300",
+      "txHash": "0x53e812f051dce3a5ba59c936b9344529fad483fdf8e9ba06fafdbc847d6856f9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x38206513e066C11Fa6b5780b30E26FE925d446be",
+      "txHash": "0xdd1cc264a951b112b0c49925b82c833be19415be6d66f4d3fddaf2feeb1a1e75",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xac15fC333261a3D0662dfB77513905B60198123A",
+      "txHash": "0x0b1ad5057c36fe78cba6b13097951482519a19b0c41700327d13f5a53d830be0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3B63c333147dEeca3E033D4EF42FBa1d7603e5Af",
+      "txHash": "0xfee0c7c2e3cc66c52786c2598b54ec58a9b4690310e6047f99998dec8cd8a22a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4a239C87c925ab651B3FD7100e660CCAec39Eb41",
+      "txHash": "0xfcf733207a3fa252b1409fa0bb3627e5bf75010956e1a1172405f5dd122c0b49",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2fFb6DEaAd4a43Eb8b31df1EafBA5aAd45E06d9b",
+      "txHash": "0xc248f3ed55d69c86d3978b4eeb547dd8355d01eda110dbfc6e2f3411d40a2856",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9645a3d9110FDF98f0d6fc326fAe45AeD938Ee82",
+      "txHash": "0xe494f2c67aeca355375f3b5aa8ffb7597e82da2da8f06e297009ed5446c2b8b3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x389145f5586133A19a909BBD59D91417E51Cd219",
+      "txHash": "0xa34019b0ec174f3afe515200a11be21f72737c5bfc5c2788d05075a4aa74000e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB41D9b321Fb520bfFAa32c0a9678d5f1e42C2042",
+      "txHash": "0x418c9ba92b03cd58d5e1e084cd53cb41de682336644128cd4dab16b2a9562650",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2cbC775Fba07e7Ce73F77D4369440a2c5EDEeea6",
+      "txHash": "0x951de99f081e3e16bf187e78198b763c5816c1c672c1196f664a30257687fcc4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4eb2e662D525d00A100dE32e96F83fb291075DEd",
+      "txHash": "0x4d6609bb6145f2da44d1990794d8da11e075f02983cfe518ce7057704ee8d58a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4B9238eFEC3E7Bfe438fe185bfC7cC2E3E866F96",
+      "txHash": "0x644c13bfa967eeffaa6420fe84510c75cd3b2fb47bb93752cfd17ef105b8b22c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb8E76ca94a04377ccDfA4de018482ff39225E6E7",
+      "txHash": "0x6e041498d439ed7589f6d934e576b81a7f19136d50e1d98d104ed3a3346be196",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xF8120Fab6A7f7a72A9eae245F87dFa59a9A449b6",
+      "txHash": "0x7662d1dca78af8c7aae582d7302b917087e44081058412846c9006fc970f1b4f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x93743B586B9e2d9533D5F8096dEF420556C62536",
+      "txHash": "0xa0115589173121ac2a2a462ad9fcf32d8d022fe845dd626cf14616235a07a981",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7ABf026e0f95d712dc3bD2306C34f624510A85eA",
+      "txHash": "0x0c3ff4ec1676587981664f4abaa8ff4352f026f41e5b672ad520bb5a4503d1da",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xfDfa7A705beb43ba2BDa4fD1950f76a974bB2660",
+      "txHash": "0x86f353d7a4276c3860a9e21f91c8f288722deb5491189a26110edea23b81d501",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA5C8452929c6CEAe31A6d752f3DFBd3Aec9EEa1d",
+      "txHash": "0x0f66b572e46d7037f873b2dfd8d2ee97c2ba3e64fad363221bb79f54435fdc13",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x024843F91a3c4E60564538a7025B308D75235617",
+      "txHash": "0x40904620d09a9eb45c94c2c1dcbfe0b8b13b6f7f3526efa9a4afab975c227c2d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xDa86a0b0638DF187Cf19C80F90afF2BAaCC1A01c",
+      "txHash": "0xdb91addc65275ad8823a591e40731444fa353314c7526664a7fe05ddd63bbc73",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x11AE33c66c0DBd989d949a233308FDfAf70D6F71",
+      "txHash": "0x26eee2831c4c2be415b905790758b30cf7762daa07d23d6216c3e2972e6e0f70",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA37A63c431277dE3fcD129d9eC8b5DebDA7226Fe",
+      "txHash": "0x9d64af486b725239be53d80adee9c235792bc2abcf27a36ccba15ff855782c3b",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "4257f04f34b4fd23b868ddab4bdff13d5fa055309b4fa0bfc6cd4b7c12c6e125": {
+      "address": "0xe63F80f21d711e7E30f445e14831ad691019A6CE",
+      "txHash": "0xb886dc87ce67ec5ff23f06986eed734707d8a5bc3a1481653a621532d39a398a",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "LOCK_PERIOD",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:18"
+          },
+          {
+            "label": "BOND_DISCOUNT",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:19"
+          },
+          {
+            "label": "TREASURY_WALLET",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:20"
+          },
+          {
+            "label": "POZ",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:21"
+          },
+          {
+            "label": "factory",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:22"
+          },
+          {
+            "label": "market",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_contract(IMarketPrice)3736",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:23"
+          },
+          {
+            "label": "tokens",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:41"
+          },
+          {
+            "label": "tokenInfo",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_mapping(t_address,t_struct(Token)3762_storage)",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:42"
+          },
+          {
+            "label": "bondInfo",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)3771_storage)dyn_storage))",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:43"
+          },
+          {
+            "label": "lastIndex",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint16))",
+            "contract": "PozBonding",
+            "src": "contracts/Bonding.sol:44"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Bond)3771_storage)dyn_storage": {
+            "label": "struct PozBonding.Bond[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IMarketPrice)3736": {
+            "label": "contract IMarketPrice",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(Bond)3771_storage)dyn_storage)": {
+            "label": "mapping(address => struct PozBonding.Bond[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)3771_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct PozBonding.Bond[]))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint16))": {
+            "label": "mapping(address => mapping(address => uint16))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Token)3762_storage)": {
+            "label": "mapping(address => struct PozBonding.Token)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint16)": {
+            "label": "mapping(address => uint16)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Bond)3771_storage": {
+            "label": "struct PozBonding.Bond",
+            "members": [
+              {
+                "label": "price",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "bondedAt",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "duration",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(Token)3762_storage": {
+            "label": "struct PozBonding.Token",
+            "members": [
+              {
+                "label": "flag",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "walletLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "pendingAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint16": {
+            "label": "uint16",
+            "numberOfBytes": "2"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "a98f71e49cf2e5a3d228c775ab94f1b61c3614f1ce608efba5fbf15810984d28": {
+      "address": "0x39be4669C048a37a97D420a29b596C3619778FcA",
+      "txHash": "0x2640eadfb3bf9a0b081f91c012c14a2707192ebc90b0bc903a7eb5fe84ae2398",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "LOCK_PERIOD",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:14"
+          },
+          {
+            "label": "BOND_DISCOUNT",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:15"
+          },
+          {
+            "label": "TREASURY_WALLET",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:16"
+          },
+          {
+            "label": "POZ",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:17"
+          },
+          {
+            "label": "conversion",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_contract(IConversionRate)1291",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:18"
+          },
+          {
+            "label": "tokens",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:36"
+          },
+          {
+            "label": "tokenInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_mapping(t_address,t_struct(Token)1315_storage)",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:37"
+          },
+          {
+            "label": "bondInfo",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1324_storage)dyn_storage))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:38"
+          },
+          {
+            "label": "lastIndex",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint16))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:39"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Bond)1324_storage)dyn_storage": {
+            "label": "struct PozBonding.Bond[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IConversionRate)1291": {
+            "label": "contract IConversionRate",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(Bond)1324_storage)dyn_storage)": {
+            "label": "mapping(address => struct PozBonding.Bond[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1324_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct PozBonding.Bond[]))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint16))": {
+            "label": "mapping(address => mapping(address => uint16))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Token)1315_storage)": {
+            "label": "mapping(address => struct PozBonding.Token)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint16)": {
+            "label": "mapping(address => uint16)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Bond)1324_storage": {
+            "label": "struct PozBonding.Bond",
+            "members": [
+              {
+                "label": "price",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "bondedAt",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "duration",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(Token)1315_storage": {
+            "label": "struct PozBonding.Token",
+            "members": [
+              {
+                "label": "flag",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "walletLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "pendingAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint16": {
+            "label": "uint16",
+            "numberOfBytes": "2"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "7a682f2888d5c0218ea6b195ba7a5a41bba2cf5fe6ae06053b25098564f942a3": {
+      "address": "0x1E40D48a5728AD5B05729408ac93fDaF44dcFc65",
+      "txHash": "0x6a5cf788e91026863e11b94fb4db8b5189719535ca5d14cdfe2df2d537b4c0da",
+      "layout": {
+        "solcVersion": "0.8.10",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "LOCK_PERIOD",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:14"
+          },
+          {
+            "label": "BOND_DISCOUNT",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:15"
+          },
+          {
+            "label": "TREASURY_WALLET",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:16"
+          },
+          {
+            "label": "POZ",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:17"
+          },
+          {
+            "label": "conversion",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_contract(IConversionRate)4255",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:18"
+          },
+          {
+            "label": "tokens",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:36"
+          },
+          {
+            "label": "tokenInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_mapping(t_address,t_struct(Token)4279_storage)",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:37"
+          },
+          {
+            "label": "bondInfo",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)4288_storage)dyn_storage))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:38"
+          },
+          {
+            "label": "lastIndex",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint16))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:39"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Bond)4288_storage)dyn_storage": {
+            "label": "struct PozBonding.Bond[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IConversionRate)4255": {
+            "label": "contract IConversionRate",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(Bond)4288_storage)dyn_storage)": {
+            "label": "mapping(address => struct PozBonding.Bond[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)4288_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct PozBonding.Bond[]))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint16))": {
+            "label": "mapping(address => mapping(address => uint16))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Token)4279_storage)": {
+            "label": "mapping(address => struct PozBonding.Token)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint16)": {
+            "label": "mapping(address => uint16)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Bond)4288_storage": {
+            "label": "struct PozBonding.Bond",
+            "members": [
+              {
+                "label": "price",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "bondedAt",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "duration",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(Token)4279_storage": {
+            "label": "struct PozBonding.Token",
+            "members": [
+              {
+                "label": "flag",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "walletLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "pendingAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint16": {
+            "label": "uint16",
+            "numberOfBytes": "2"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "c7d9c3295265b6eff0f00c20bf7dac318566b6a502659989e559e92b07b8796a": {
+      "address": "0x6A7F279f941A8988a996a767fab0c7198100bAAD",
+      "txHash": "0xe131ca4615c0bfc445bc65d419b5cd96b74428de3bf5af2ed4b2b16c4ccec8e2",
+      "layout": {
+        "solcVersion": "0.8.10",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "LOCK_PERIOD",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:14"
+          },
+          {
+            "label": "BOND_DISCOUNT",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:15"
+          },
+          {
+            "label": "USDC_TREASURY_WALLET",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:16"
+          },
+          {
+            "label": "POZ_TREASURY_WALLET",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:17"
+          },
+          {
+            "label": "POZ",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:18"
+          },
+          {
+            "label": "conversion",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_contract(IConversionRate)1291",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:19"
+          },
+          {
+            "label": "tokens",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:37"
+          },
+          {
+            "label": "tokenInfo",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_mapping(t_address,t_struct(Token)1317_storage)",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:38"
+          },
+          {
+            "label": "bondInfo",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:39"
+          },
+          {
+            "label": "lastIndex",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint16))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:40"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Bond)1326_storage)dyn_storage": {
+            "label": "struct PozBonding.Bond[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IConversionRate)1291": {
+            "label": "contract IConversionRate",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage)": {
+            "label": "mapping(address => struct PozBonding.Bond[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct PozBonding.Bond[]))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint16))": {
+            "label": "mapping(address => mapping(address => uint16))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Token)1317_storage)": {
+            "label": "mapping(address => struct PozBonding.Token)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint16)": {
+            "label": "mapping(address => uint16)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Bond)1326_storage": {
+            "label": "struct PozBonding.Bond",
+            "members": [
+              {
+                "label": "price",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "bondedAt",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "duration",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(Token)1317_storage": {
+            "label": "struct PozBonding.Token",
+            "members": [
+              {
+                "label": "flag",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "walletLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "pendingAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint16": {
+            "label": "uint16",
+            "numberOfBytes": "2"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "55ee9e1d5749c176341dfa69b2a86d765ade0479c4a69d67cd44086026a54f4f": {
+      "address": "0x0617901EF1751E7Aa1D005da158820ccd7e3068F",
+      "txHash": "0x10dbc4429faac10611fbf17cbfce7206f99d05d8ccbd510bb9687b0e7c2e9875",
+      "layout": {
+        "solcVersion": "0.8.10",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "LOCK_PERIOD",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:14"
+          },
+          {
+            "label": "BOND_DISCOUNT",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:15"
+          },
+          {
+            "label": "USDC_TREASURY_WALLET",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:16"
+          },
+          {
+            "label": "POZ_TREASURY_WALLET",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:17"
+          },
+          {
+            "label": "POZ",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:18"
+          },
+          {
+            "label": "conversion",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_contract(IConversionRate)1291",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:19"
+          },
+          {
+            "label": "tokens",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:37"
+          },
+          {
+            "label": "tokenInfo",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_mapping(t_address,t_struct(Token)1317_storage)",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:38"
+          },
+          {
+            "label": "bondInfo",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:39"
+          },
+          {
+            "label": "lastIndex",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint16))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:40"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Bond)1326_storage)dyn_storage": {
+            "label": "struct PozBonding.Bond[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IConversionRate)1291": {
+            "label": "contract IConversionRate",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage)": {
+            "label": "mapping(address => struct PozBonding.Bond[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct PozBonding.Bond[]))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint16))": {
+            "label": "mapping(address => mapping(address => uint16))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Token)1317_storage)": {
+            "label": "mapping(address => struct PozBonding.Token)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint16)": {
+            "label": "mapping(address => uint16)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Bond)1326_storage": {
+            "label": "struct PozBonding.Bond",
+            "members": [
+              {
+                "label": "price",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "bondedAt",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "duration",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(Token)1317_storage": {
+            "label": "struct PozBonding.Token",
+            "members": [
+              {
+                "label": "flag",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "walletLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "pendingAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint16": {
+            "label": "uint16",
+            "numberOfBytes": "2"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "2ef386744030c78a38d0cfd71fffba8c82a5f48c30026dc5b14bf90e0825e37d": {
+      "address": "0xe33475D577E5C35Ba3351A8A72D1DC19c3158d92",
+      "txHash": "0x6e6fb7c2fd88dccb38af1426db303d89eb28e1d5c8113fff8e55b9373d1a9e80",
+      "layout": {
+        "solcVersion": "0.8.10",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "LOCK_PERIOD",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:14"
+          },
+          {
+            "label": "BOND_DISCOUNT",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:15"
+          },
+          {
+            "label": "USDC_TREASURY_WALLET",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:16"
+          },
+          {
+            "label": "POZ_TREASURY_WALLET",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:17"
+          },
+          {
+            "label": "POZ",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_address",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:18"
+          },
+          {
+            "label": "conversion",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_contract(IConversionRate)1291",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:19"
+          },
+          {
+            "label": "tokens",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:37"
+          },
+          {
+            "label": "tokenInfo",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_mapping(t_address,t_struct(Token)1317_storage)",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:38"
+          },
+          {
+            "label": "bondInfo",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:39"
+          },
+          {
+            "label": "lastIndex",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint16))",
+            "contract": "PozBonding",
+            "src": "contracts\\Bonding.sol:40"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Bond)1326_storage)dyn_storage": {
+            "label": "struct PozBonding.Bond[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IConversionRate)1291": {
+            "label": "contract IConversionRate",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage)": {
+            "label": "mapping(address => struct PozBonding.Bond[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_array(t_struct(Bond)1326_storage)dyn_storage))": {
+            "label": "mapping(address => mapping(address => struct PozBonding.Bond[]))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint16))": {
+            "label": "mapping(address => mapping(address => uint16))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Token)1317_storage)": {
+            "label": "mapping(address => struct PozBonding.Token)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint16)": {
+            "label": "mapping(address => uint16)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Bond)1326_storage": {
+            "label": "struct PozBonding.Bond",
+            "members": [
+              {
+                "label": "price",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "amount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "bondedAt",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "duration",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(Token)1317_storage": {
+            "label": "struct PozBonding.Token",
+            "members": [
+              {
+                "label": "flag",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "walletLimit",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "pendingAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint16": {
+            "label": "uint16",
+            "numberOfBytes": "2"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    }
+  }
+}
